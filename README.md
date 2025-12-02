@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a ML engineer from Moscow.</p>
+<p align="left">I'm a Data Engineer who loves programming and diving deep into Neural Networks.</p>
 
 ###
 
